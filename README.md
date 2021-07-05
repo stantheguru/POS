@@ -1,0 +1,2 @@
+# POS
+Managing products (CRUD)
